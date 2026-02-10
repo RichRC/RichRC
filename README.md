@@ -1,11 +1,11 @@
 ## Hi there 👋
 I'm a Business Intelligence Analyst with a foundation in SQL, data manipulation, and visualization — focused on transforming raw data into clear, actionable insights that drive smarter decisions.
-I approach analytics with a human-centered lens: designing dashboards and reports that stakeholders actuallyunderstand and use, not just consume. My UX/UI background directly informs how I structure and present 
+I approach analytics with a human-centered lens: designing dashboards and reports that stakeholders actually understand and use, not just consume. My UX/UI background directly informs how I structure and present 
 data, bridging the gap between technical analysis and intuitive communication.
 
 
 🔭 I’m currently working on:
-* Building end-to-end BI workfl ows that connect raw data to executive-ready dashboards.
+* Building end-to-end BI workflows that connect raw data to executive-ready dashboards.
 * Exploring data storytelling techniques that make insights land for non-technical audiences.
 
 🌱 I’m currently learning:
