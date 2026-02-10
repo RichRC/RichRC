@@ -4,7 +4,7 @@ I approach analytics with a human-centered lens: designing dashboards and report
 data, bridging the gap between technical analysis and intuitive communication.
 
 
-- 🔭 I’m currently working on:
+🔭 I’m currently working on:
 * Building end-to-end BI workfl ows that connect raw data to executive-ready dashboards.
 * Exploring data storytelling techniques that make insights land for non-technical audiences.
 
