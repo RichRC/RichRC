@@ -27,8 +27,7 @@ data, bridging the gap between technical analysis and intuitive communication.
 * Connect with me on LinkedIn https://www.linkedin.com/in/richard-rivera-cartagena/
 
 ⚡ Fun fact:
-* I have thousands of vinyl records and a lifelong obsession with electronic music. I've also worked as a headsommelier — turns out recommending a $400 bottle of wine and choosing the right KPI for a stakeholder
-require exactly the same skill: reading the room and trusting your data.
+* I have thousands of vinyl records and a lifelong obsession with electronic music. I've also worked as a bartender, DJ and sommelier — turns out crafting a bespoke cocktail, choosing the next record, recommending a $400 bottle of wine and choosing the right KPI for a stakeholder require exactly the same skill: reading the room and trusting your data.
 
 🛠️ Technical Skills
 * BI & Analytics: SQL, Data Modeling, Dashboard Design, KPI Development, Data Visualization, Reporting
