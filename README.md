@@ -37,7 +37,7 @@ data, bridging the gap between technical analysis and intuitive communication.
 
 🧠 A bit about my path
 * My route to BI is unconventional — and that's the point. Years in hospitality as a head bartender, head sommelier, and DJ sharpened my pattern recognition,interpersonal intelligence, and ability to make data-driven calls under pressure.
-Earlier academic work in biology and microbiology research instilled a rigorous, methodical approach to investigation that I carry into every analysis. I've always been drawn to research: asking the right questions, digging beneath the surface,
+Earlier coursework work in biology and microbiology research instilled a rigorous, methodical approach to investigation that I carry into every analysis. I've always been drawn to research: asking the right questions, digging beneath the surface,
 and letting evidence guide conclusions.
 * The best BI work — like the best guest experience — starts with genuinely understanding the person on the other side of the data.
 
